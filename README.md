@@ -34,9 +34,9 @@ Symbol Hunt is a fun and engaging memory-based game where players uncover pairs 
 ## 🌐 Demo
 
 <p align="center">
- <video src="https://github.com/user-attachments/assets/3e0a6fd9-8c6e-417e-8dfa-39782a1bbc14" alt="Untitled video - Made with Clipchamp" style="width: 50%; height: 50%;"/>
+ <video src="https://github.com/divyansshu/Symbol-Hunt/blob/main/Screen%20Recording%202024-11-24%20150656.mp4" alt="Untitled video - Made with Clipchamp" style="width: 50%; height: 50%;"/>
 
 ## 🎨 Screenshots
 
-<img src="https://github.com/user-attachments/assets/1b826937-0515-4462-9081-80c51a120a9a" alt="Screenshot 1" height=50% width="50%"><br><br>
-<img src="https://github.com/user-attachments/assets/ebba7577-e2a1-448d-9e0b-f3a910a607fe" alt="Screenshot 2" height=50% width="50%">
+<img src="https://github.com/divyansshu/Symbol-Hunt/blob/main/Screenshot%202024-11-24%20145809.png?raw=true" alt="Screenshot 1" height=50% width="50%"><br><br>
+<img src="https://github.com/divyansshu/Symbol-Hunt/blob/main/Screenshot%202024-11-24%20145818.png?raw=true" alt="Screenshot 2" height=50% width="50%">
