@@ -32,8 +32,10 @@ MatchMaker Mania is a fun and engaging memory-based game where players uncover p
    ``` 
 
 ##  Demo
+
 <p align="center">
-<img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/Matchmaker.gif" width=50% height=50%>
+ <video src="https://github.com/user-attachments/assets/3e0a6fd9-8c6e-417e-8dfa-39782a1bbc14" alt="Untitled video - Made with Clipchamp" style="width: 50%; height: 50%;">
+</p>
 
 ## Screenshots
 
