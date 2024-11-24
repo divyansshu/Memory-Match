@@ -5,7 +5,6 @@ MatchMaker Mania is a fun and engaging memory-based game where players uncover p
 ## Features
 - Interactive and colorful symbol-based memory game.
 - Tracks pairs to ensure a rewarding user experience.
-- Displays a congratulatory message when all matches are found.
 - Grid-based layout for intuitive gameplay.
 
 ## How to Play
@@ -21,7 +20,7 @@ MatchMaker Mania is a fun and engaging memory-based game where players uncover p
 ## Installation
 1. Clone or download the repository:<br><br>
    ```sh
-   git clone https://github.com//matchmaker-mania.git
+   git clone https://github.com/divyansshu/Symbol-Hunt.git
    ```
 2. Navigate to the game directory:<br><br>
     ```sh
@@ -35,3 +34,10 @@ MatchMaker Mania is a fun and engaging memory-based game where players uncover p
 ##  Demo
 <p align="center">
 <img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/Matchmaker.gif" width=50% height=50%>
+
+## Screenshots
+
+<div>
+  <img src="https://github.com/user-attachments/assets/1b826937-0515-4462-9081-80c51a120a9a" alt="Screenshot 1" height=50% width="50%"><br><br>
+  <img src="https://github.com/user-attachments/assets/ebba7577-e2a1-448d-9e0b-f3a910a607fe" alt="Screenshot 2" height=50% width="50%">
+</div>
