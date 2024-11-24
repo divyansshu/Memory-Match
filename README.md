@@ -33,7 +33,7 @@ Symbol Hunt is a fun and engaging memory-based game where players uncover pairs 
 
 ## 🌐 Demo
 
-<img src="https://raw.githubusercontent.com/divyansshu/Symbol-Hunt/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif" alt="Demo Video" width="50%">
+<img src="https://github.com/divyansshu/Symbol-Hunt/blob/main/symbol%20hunt.gif" alt="Demo Video" width="50%">
 
 
 ## 🎨 Screenshots
